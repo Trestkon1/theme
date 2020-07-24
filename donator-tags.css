@@ -75,7 +75,7 @@
 /* My friends and my borders/glow */
   /* mine */
 .contents-2mQqc9 .avatar-1BDn8e[src*="508424494801485824"] + h2::before{
-  content: 'Toshi';
+  content: '';
   position: absolute;
   height: 44px;
   width: 44px;
