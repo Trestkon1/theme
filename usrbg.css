@@ -1,7 +1,7 @@
 /*Sets default user popout position to center.*/
 
 .userPopout-3XzG_A {
-	--user-popout-position: center;
+	--user-popout-position: right;
 }
 
 /* #000 = UNKNOWN DISCRIMINATOR */
