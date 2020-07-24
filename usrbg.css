@@ -1,7 +1,7 @@
 /*Sets default user popout position to center.*/
 
 .userPopout-3XzG_A {
-	--user-popout-position: 50% 20%;
+	--user-popout-position: 50% 5%;
 }
 
 /* #000 = UNKNOWN DISCRIMINATOR */
@@ -9,7 +9,7 @@
 
 [user_by_bdfdb*="508424494801485824"],
 [data-user-id*="508424494801485824"] {
-	background-position: 50% 20%;
+	background-position: 50% 5%;
 --user-background: url('https://i.imgur.com/h8akdhS.gif');
 }
 
