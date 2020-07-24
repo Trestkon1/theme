@@ -3,7 +3,7 @@
 .userPopout-3XzG_A {
 background-repeat: no-repeat;
 background-attachment: fixed;
---user-popout-position: 30% 15%;
+--user-popout-position: 30% 10%;
 }
 
 /* #000 = UNKNOWN DISCRIMINATOR */
@@ -13,7 +13,7 @@ background-attachment: fixed;
 [data-user-id*="508424494801485824"] {
 background-repeat: no-repeat;
 background-attachment: fixed;
-background-position: 30% 15%;
+background-position: 30% 10%;
 --user-background: url('https://i.imgur.com/h8akdhS.gif');
 }
 
