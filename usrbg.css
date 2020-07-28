@@ -17,7 +17,7 @@ background-position: 30% 10%;
 --user-background: url('https://i.imgur.com/h8akdhS.gif');
 }
 
-/*@BeautifulBadass#0587 */
+/* BeautifulBadass#0587 */
 
 [user_by_bdfdb*="724378834203443291"],
 [data-user-id*="724378834203443291"] {
@@ -26,3 +26,23 @@ background-attachment: fixed;
 background-position: 30% 10%;
 --user-background: url('https://i.imgur.com/DYHvSuD.gif');
 }
+
+/* Selene Sinistra#9923 */
+
+[user_by_bdfdb*="457534252955992084"],
+[data-user-id*="457534252955992084"] {
+background-repeat: repeat;
+background-attachment: fixed;
+background-position: 30% 10%;
+--user-background: url('https://i.imgur.com/1qjdJV5.gif');
+}
+/* Selene Sinistra#9923 */
+
+[user_by_bdfdb*="600841660842377248"],
+[data-user-id*="600841660842377248"] {
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: 30% 10%;
+--user-background: url('https://i.imgur.com/z6bZ6qt.mp4');
+}
+
