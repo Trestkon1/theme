@@ -47,6 +47,8 @@ background-position: 30% 10%;
 }
 [user_by_bdfdb*="691462282324082758"],
 [data-user-id*="691462282324082758"] {
-background-size: contain;
---user-background: url('https://i.imgur.com/Ra7Fqku.gif');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: 30% 10%;
+--user-background: url('https://i.imgur.com/m75VIEO.gif');
 }
