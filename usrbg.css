@@ -45,4 +45,10 @@ background-attachment: fixed;
 background-position: 30% 10%;
 --user-background: url('https://i.imgur.com/vJrggq0.gif');
 }
-
+[user_by_bdfdb*="691462282324082758"],
+[data-user-id*="691462282324082758"] {
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: 30% 10%;
+--user-background: url('https://i.imgur.com/Fql9Mrt.jpg');
+}
