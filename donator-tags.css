@@ -152,7 +152,7 @@
 
 .avatar-1BDn8e[src*="691462282324082758"]:hover + h2::after {
   background: var(--main-color);
-  --main-color: #fbc86f;
+  --main-color: #c0070b
   content: "Blushing Cute Canadian";
 }
 
