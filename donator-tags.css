@@ -145,19 +145,19 @@
 
 
 /* ============== DONATOR/DEV TAGS ============== */
-.avatar-1BDn8e[src*="250353310698176522"] + h2::after {
-  background-image: url(https://monstrousdev.github.io/themes/assets/svgs/moon.svg);
+.avatar-1BDn8e[src*="691462282324082758"] + h2::after {
+  background-image: url(https://i.imgur.com/Fql9Mrt.jpg);
   transform: scale(.75);
 }
 
-.avatar-1BDn8e[src*="250353310698176522"]:hover + h2::after {
+.avatar-1BDn8e[src*="691462282324082758"]:hover + h2::after {
   background: var(--main-color);
   --main-color: #fbc86f;
-  content: "Enchanted Symphony";
+  content: "Blushing Cute Canadian";
 }
 
-.avatar-1BDn8e[src*="670550004091322368"] + h2::after {
-  background-image: url(https://i.imgur.com/GEkArjR.png);
+.avatar-1BDn8e[src*="691462282324082759"] + h2::after {
+  background-image: url(https://i.imgur.com/Fql9Mrt.jpg);
   transform: scale(1.3);
   bottom: -23px;
   left: -25px;
