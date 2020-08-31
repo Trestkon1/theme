@@ -97,7 +97,29 @@
   background-image: url(https://i.gifer.com/fyD3.gif);
   box-shadow: 0 0 5px rgba(246, 255, 192, 0.658);
 }
+.contents-2mQqc9 .avatar-1BDn8e[src*="691462282324082758"] + h2::before{
+  content: '';
+  position: absolute;
+  height: 44px;
+  width: 44px;
+  top: 0px;
+  left: -58px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  pointer-events: none;
+  border-radius: var(--roundness, var(--user-roundness, 50px)) !important;
+  z-index: -1;
+}
 
+.contents-2mQqc9 .avatar-1BDn8e[src*="691462282324082758"]:hover + h2::before{
+  border-radius: var(--roundness, var(--user-roundness, 50px)) !important;
+}
+
+.contents-2mQqc9 .avatar-1BDn8e[src*="691462282324082758"] + h2::before {
+  background-image: url(https://i.gifer.com/fyD3.gif);
+  box-shadow: 0 0 5px rgba(246, 255, 192, 0.658);
+}
   /* ellie */
 .contents-2mQqc9 .avatar-1BDn8e[src*="213220786805145600"] {
   animation: eve-glow 1s ease-in-out infinite alternate;
