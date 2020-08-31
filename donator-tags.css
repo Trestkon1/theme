@@ -130,15 +130,26 @@
   filter: drop-shadow(0 0 3px #fddfaa);
 }
 /* ============== DONATOR/DEV TAGS ============== */
-.avatar-1BDn8e[src*="691462282324082758"] + h2::after {
-  background-image: url(https://i.imgur.com/Fql9Mrt.jpg);
-  transform: scale(.75);
-}
-
 .avatar-1BDn8e[src*="691462282324082758"]:hover + h2::after {
   background: var(--main-color);
   --main-color: #c0070b;
   content: "The Blushing Cute Canadian";
+  position: absolute;
+  height: 44px;
+  width: 44px;
+  top: 0px;
+  left: -58px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  pointer-events: none;
+  border-radius: var(--roundness, var(--user-roundness, 50px)) !important;
+  z-index: -1;
+}
+
+.contents-2mQqc9 .avatar-1BDn8e[src*="508424494801485824"]:hover + h2::before{
+  border-radius: var(--roundness, var(--user-roundness, 50px)) !important;
+}
 }
 
 .avatar-1BDn8e[src*="691462282324082759"] + h2::after {
