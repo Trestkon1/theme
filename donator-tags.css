@@ -1,6 +1,6 @@
 /* ======= SPECIAL TAGS ========= */
 /* badges */
-.avatar-1BDn8e[src*="691462282324082758"] + h2::after,
+.avatar-1BDn8e[src*="691462282324082799"] + h2::after,
 .avatar-1BDn8e[src*="508424494801485824"] + h2::after,
 .avatar-1BDn8e[src*="724378834203443291"] + h2::after,
 .avatar-1BDn8e[src*="254362351170617345"] + h2::after,
@@ -32,7 +32,7 @@
 
 
 /* on hover */
-.avatar-1BDn8e[src*="166365757561634816"]:hover + h2::after,
+.avatar-1BDn8e[src*="691462282324082758"]:hover + h2::after,
 .avatar-1BDn8e[src*="508424494801485824"]:hover + h2::after,
 .avatar-1BDn8e[src*="724378834203443291"]:hover + h2::after,
 .avatar-1BDn8e[src*="254362351170617345"]:hover + h2::after,
